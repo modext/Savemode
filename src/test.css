@@ -1,0 +1,16 @@
+:root{
+    --purple-primary: #554DDE;
+    --accent-pink: #F44E77;
+    --neutral-light: #F2F6FF;
+    --lavender-secondary: #6A6D9E; /*Primary Font Color*/
+    --dark-primary: #16194F;
+    --border-colour: #CAB6F1;
+}
+const leftStyle= {
+    width: '10px',
+    height: '10px',
+    transition: .5,
+    float: 'left',
+    boxShadow: '-2px 2px 0 white',
+    transform: 'rotate(45deg)',
+};
